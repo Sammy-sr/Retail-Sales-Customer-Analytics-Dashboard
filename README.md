@@ -1,1 +1,1 @@
-# HomeCraft Sales Dashboard
+# Retail Sales & Customer Analytics Dashboard
